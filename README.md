@@ -1,7 +1,9 @@
 # flutter_application_kuis
 
 A new Flutter project.
-
+NIM: 124220127
+Nama: Akram Jamil
+Kelas: SI-E
 ## Getting Started
 
 This project is a starting point for a Flutter application.
